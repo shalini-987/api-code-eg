@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-automation-389812",
+  "private_key_id": "cb935098513b03bbc929a234a06a05adee3a1902",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMa6rHazk6MFHf\nnoK8z3o2hk6ZSK87TyxahiiArQOz5iYvhWWmhL00VdLkzDKudns7lVbLk9WUdaIU\nOvCOxly9hr6j7DD/c5rD4W4w1lkI2pbFa2vin0Kou5JvFh53WAToMvnPSz+80k3D\n4yBx25IooXWWoBtL2xL9VK9h87GCIl25R9GsRQpFA3+JwqQ80yEf8BjyLOi6912C\nwyZbdiaNE9RY4oRL8UEBSXOsZHkQ7mqHJUPuoM5e7S7Je6HHsFQEZxWXZ2Z+LB1c\nviAif0RXUgXFJxARaoI9N8V25imQndW/7HMYxXgOTbhZDrPu9zXRpRtlTttqsiyz\nXQQW20G/AgMBAAECggEAFSaqw/l/MVsgjY+8HUcmcQ/SgB+6KdvWTgOFm1LLiEiu\n+MnHq8QeQ5UBvjS2pcCSnaalFWlVdwf43jj+/PbfT6jqftGIfFX81Hm1yg3Tpovf\nf8vOnOM3pXfK/f1+54BO+auUl3NExAfKjhMpHz7Fz7htD0m/qUignV+uyebKHhm6\n0Y5YynKCrf/zkEMQV1CMhlvhxnwYHObx7i4CWdEymhpVsnTNsXpU2+KeX+xQ3iHH\ni9xZIEEl74JDnwN8WL6xSjIzI9qFgpyKNWz3hFKvcZGn19VYujZJAWbtvToeMe7o\nyev6+jRkhdKem3nCRaWGBZa9Vil5hcPr7Y7IBrgxKQKBgQDuZYQ/GYS8J3MSzAAw\nMtR17HF/hmZ58cdLlVO8UvcXLfzQMLg3sUj4SKrBHMbeznS30hlSCDICSBtS0cFp\nq/UBvXzSaaiKE7P6bX/VyxllR7G3eFY00dvMP8UyFfFODqebBccutyxy2kAnkTDk\nfp/V7sFqAgb65RgfUUhiDhAFswKBgQDbg+Rnd7WAzEJUzE7yCvFZIW729TywXLj3\nkk2HtpchXjlXQhUTn/rCuq2jQDIqrxpPPir6XyeztsUOZQRaAFwSBsFJyIszqDFb\nc48yPoyTlYfdScnZ3jseWZD2DtmfNwTjTHIFl36Q6thudcdRvsx+1tFPbHY2GQvj\nRVyki3wlxQKBgHAwwi3X2omZnyQHcUc9hJMCdN9o5q0YxYuieMe126bC86keZHOB\nMS/3MrSy0DxmuLMRYu0iAjbkrEcrg3QxgpoRDL8RDkn8v8Ro57I7ZHYvaUlIjnlJ\nEcFreWf6v5bWerYP4A7yES7z2yFDyNifZqUNOWSkE5jbW6DRZdkPeSbVAoGBAIkW\ndS2otNEavtH2RdcivlbLamEQBjadsWXrGEAI55kPHwA/ZKo83n1917J8BNhjQir6\nyBxUEJdLLQUwUOdkEhuv3EYX19cK0sgqAuN97Iy+dXrc+hH1lzX8+WqxG3czBPpu\nY0batVALWd6h7zg9z7fmsBDJy4k9Ww8z4gdglMeBAoGAdTMmE7bnW+WyvEUggM7u\nimQ/79RWiL27GGT56H7AO5I+MZp7Fh3a6go+eHXVoUmhKde9cYWPBw54iyqq4aUz\nOxnh0Dmsv/h5ga4ryYPVFGbRrN0s5FQmlkiQelh3hHpCND9AZDB6fEHPAUA3uIkt\n2Ee/bdQHjFvc64qvXjTngaU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shalini@cloud-automation-389812.iam.gserviceaccount.com",
+  "client_id": "101677548331035144126",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shalini%40cloud-automation-389812.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
